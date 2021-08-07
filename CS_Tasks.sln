@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTask", "FirstTask\FirstTask.csproj", "{F4275ACF-272C-4A05-8025-25590CD04E4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstTask", "FirstTask\FirstTask.csproj", "{F4275ACF-272C-4A05-8025-25590CD04E4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondTask", "SecondTask\SecondTask.csproj", "{0056F2B8-DEAE-44A1-8B8D-C102CE78C08A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondTask", "SecondTask\SecondTask.csproj", "{0056F2B8-DEAE-44A1-8B8D-C102CE78C08A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F9D0D85-38E5-4278-BD8A-4090652BF582}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,7 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask", "ThirdTask\ThirdTask.csproj", "{60802E5F-81A0-4B41-A39F-29C66DE680CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdTask", "ThirdTask\ThirdTask.csproj", "{60802E5F-81A0-4B41-A39F-29C66DE680CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FourthTask", "FourthTask\FourthTask.csproj", "{1ABEE31E-8932-4C7F-8F88-93E03557AFEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{60802E5F-81A0-4B41-A39F-29C66DE680CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60802E5F-81A0-4B41-A39F-29C66DE680CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60802E5F-81A0-4B41-A39F-29C66DE680CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABEE31E-8932-4C7F-8F88-93E03557AFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABEE31E-8932-4C7F-8F88-93E03557AFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABEE31E-8932-4C7F-8F88-93E03557AFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABEE31E-8932-4C7F-8F88-93E03557AFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
